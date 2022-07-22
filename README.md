@@ -1,4 +1,4 @@
-# Project3-Ocean Fun
+# Mini-Project
 
 -- A platform for lover of water sport to book or post their training classes and comments.
 
